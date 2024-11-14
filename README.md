@@ -1,4 +1,4 @@
-# Unsupervised-Drivable-Area-Detection
+# Unsupervised Drivable Area Detection
 
 
 ![2](https://github.com/user-attachments/assets/fe721571-4828-4d3e-b908-362fdabcffd3)
